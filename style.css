@@ -1,3 +1,7 @@
 body{
-    background-color: powderblue;
+    background-color: rgba(150, 236, 172, 0.932);
+}
+header{
+    font-family: 'Josefin Slab', serif;
+    align-content: center
 }
